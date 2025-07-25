@@ -53,19 +53,3 @@ python game.py
 
 # 🤖 Computer AI
 The computer opponent uses a random strategy, selecting randomly from all available moves. This provides unpredictable gameplay while ensuring all moves are valid.
-
-## 🎨 Example Gameplay
-| 0 | 1 | 2 |
-| 3 | 4 | 5 |
-| 6 | 7 | 8 |
-
-X's turn. Input move (0-8): 4
-X makes a move to square 4
-|   |   |   |
-|   | X |   |
-|   |   |   |
-
-O makes a move to square 2
-|   |   | O |
-|   | X |   |
-|   |   |   |
